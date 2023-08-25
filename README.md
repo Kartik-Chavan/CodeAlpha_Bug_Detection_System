@@ -33,4 +33,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any inquiries or feedback, please contact us at contact@example.com.
+For any inquiries or feedback, please contact us at kartikchavan@gmail.com.com.
