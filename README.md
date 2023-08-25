@@ -1,4 +1,4 @@
-#Bug_Tracking_System
+#CodeAlpha_Bug_Tracking_System
 Bug Tracking System is a comprehensive application designed to manage and track bugs that occur during the development of a project. It serves as a powerful tool for developers, administrators, and management to collaboratively address and resolve bugs, ensuring a smoother software development lifecycle (SDLC).
 
 Features
